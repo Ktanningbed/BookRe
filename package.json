@@ -1,0 +1,22 @@
+{
+  "name": "bookre",
+  "version": "1.0.0",
+  "description": "Book recommendation app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ktanningbed/BookRe.git"
+  },
+  "author": "Kevin Tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ktanningbed/BookRe/issues"
+  },
+  "homepage": "https://github.com/Ktanningbed/BookRe#readme",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
