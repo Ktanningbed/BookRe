@@ -1,6 +1,5 @@
-��#� �B�o�o�k�R�e�
-�
-�
+BookRe - A book recommendation site
+====================================
 
 ![BookRe](https://user-images.githubusercontent.com/58784851/212496624-15abcf1c-abed-4675-86da-c67b0b00884b.png)
 
